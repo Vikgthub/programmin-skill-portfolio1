@@ -10,6 +10,6 @@ dictionary = {
     'age:' :agee 
     }
 
-# In dictionary, "a" will print the information in different lines
+# In dictionary, "a" will print the information in different lines 
 for a in dictionary.items():
     print (a)
