@@ -3,7 +3,7 @@ namee = str(input("Please enter your name (first_middle_sur): "))
 hometownn = str(input("Enter your hometown: "))
 agee = int(input("Enter your age: "))
 
-# Create the dictionary containing thr three variables 
+# Create the dictionary containing the three variables 
 dictionary = {
     'name:' : namee ,
     'hometown:' : hometownn ,
